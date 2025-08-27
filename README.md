@@ -59,7 +59,7 @@
 ## 📱 在線體驗
 
 由於這是GitHub Pages項目，你可以直接在線遊玩：
-`https://nymdev.github.io/PraticePjct.github.io/doushouqi.html`
+`https://nymdev.github.io/PraticePjct.github.io/index.html`
 
 ---
 
